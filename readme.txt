@@ -1,0 +1,3 @@
+Hi! I'm Liz Tajonar and I am the Team Lead for Customer Success in North America. I joined Lucid Codes to help grow my knowledge base of how our API infrastructure works. This will help me as I lead the CS team and help guide them on how to identify a good API integration opportunity. 
+
+In addition, growing my knowledge will help be better asses customer needs and various troubleshooting scenarios. 
